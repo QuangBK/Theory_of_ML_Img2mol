@@ -7,3 +7,8 @@ model.*
 splits/
 *.pkl
 ckpt/
+model_cnn/
+vae_model/
+train_processed_bms/
+train_processed_bms_ver2/
+val_processed_bms/
